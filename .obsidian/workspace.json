@@ -4,39 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0cf0ccd7abd3d578",
+        "id": "1157f8cafea3198d",
         "type": "tabs",
         "children": [
           {
-            "id": "cda2be9c6532b749",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00_Inbox/obisidian目录管理.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "obisidian目录管理"
-            }
-          },
-          {
-            "id": "b7c0d36ff07084ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00_Inbox/obisidian目录管理.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "obisidian目录管理"
-            }
-          },
-          {
-            "id": "002912e3ce35fbf7",
+            "id": "3cbd1a4b652e4244",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -49,8 +21,7 @@
               "title": "2025-07-25"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -208,23 +179,27 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
+      "switcher:打开快速切换": true,
       "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
+      "canvas:新建白板": true,
+      "daily-notes:打开/创建今天的日记": true,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
+      "command-palette:打开命令面板": true,
       "periodic-notes:Open today": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "002912e3ce35fbf7",
+  "active": "3cbd1a4b652e4244",
   "lastOpenFiles": [
-    "05_Templates/daily_template.md",
-    "01_DailyNotes/2025-07-25.md",
     "00_Inbox/obisidian目录管理.md",
+    "01_DailyNotes/2025-07-25.md",
+    "未命名.canvas",
+    "00_Inbox/少年感.md",
+    "00_Inbox/Drawing 2025-07-25 19.21.50.excalidraw.md",
     "06_Assets/excalidraw/Drawing 2025-07-25 18.43.45.excalidraw.md",
+    "06_Assets/excalidraw/Drawing 2025-07-25 19.21.16.excalidraw.md",
+    "05_Templates/daily_template.md",
     "Excalidraw/Drawing 2025-07-25 18.36.06.excalidraw.md",
     "06_Assets/excalidraw",
     "Excalidraw",
