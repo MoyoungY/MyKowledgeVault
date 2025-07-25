@@ -41,6 +41,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "05_Templates/daily_template.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "daily_template"
+            }
+          },
+          {
+            "id": "61cb9788d4e848d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "01_DailyNotes/2025-07-25.md",
                 "mode": "source",
                 "source": false
@@ -50,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -73,7 +87,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "文件列表"
+              "title": "Files"
             }
           },
           {
@@ -176,7 +190,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-07-25 的大纲"
+              "title": "Outline of 2025-07-25"
             }
           },
           {
@@ -208,22 +222,25 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "periodic-notes:Open today": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "002912e3ce35fbf7",
+  "active": "63d41490eb779285",
   "lastOpenFiles": [
-    "05_Templates/daily_template.md",
-    "01_DailyNotes/2025-07-25.md",
     "00_Inbox/obisidian目录管理.md",
+    "01_DailyNotes/2025-07-25.md",
+    "05_Templates/daily_template.md",
+    "01_DailyNotes/2025-07-26.md",
+    "00_Inbox/Untitled.md",
     "06_Assets/excalidraw/Drawing 2025-07-25 18.43.45.excalidraw.md",
     "Excalidraw/Drawing 2025-07-25 18.36.06.excalidraw.md",
     "06_Assets/excalidraw",

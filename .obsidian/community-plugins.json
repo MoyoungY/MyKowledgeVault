@@ -2,5 +2,7 @@
   "periodic-notes",
   "calendar",
   "obsidian-excalidraw-plugin",
-  "obsidian-git"
+  "obsidian-git",
+  "templater-obsidian",
+  "quickadd"
 ]
