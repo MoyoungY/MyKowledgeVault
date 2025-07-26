@@ -2,8 +2,8 @@
 .obsidian/workspace.json
 
 # 忽略社区插件的安装状态和启用情况（每人可自定义）
-.obsidian/community-plugins.json
-.obsidian/plugins/
+# .obsidian/community-plugins.json
+# .obsidian/plugins/
 
 # 忽略 Obsidian 的缓存数据（搜索索引、图谱缓存等）
 .obsidian/cache/
