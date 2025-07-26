@@ -1,4 +1,12 @@
-# 📅 {{date:YYYY-MM-DD}} {{date:dddd}}
+---
+date: <% tp.date.now("YYYY-MM-DD") %>
+day: <% tp.date.now("dddd") %>
+tags: [daily]
+mood: 
+location: 
+---
+
+# 📅 <% tp.date.now("YYYY-MM-DD") %> <% tp.date.now("dddd") %>
 
 ## 🎯 今日目标
 - [ ] 

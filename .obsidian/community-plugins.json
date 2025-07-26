@@ -3,5 +3,7 @@
   "calendar",
   "obsidian-excalidraw-plugin",
   "obsidian-git",
+  "templater-obsidian",
+  "quickadd",
   "dataview"
 ]
