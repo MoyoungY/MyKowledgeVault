@@ -1,0 +1,31 @@
+# 忽略 Obsidian 工作区配置（UI 布局、面板状态）
+.obsidian/workspace.json
+
+# 忽略社区插件的安装状态和启用情况（每人可自定义）
+.obsidian/community-plugins.json
+.obsidian/plugins/
+
+# 忽略 Obsidian 的缓存数据（搜索索引、图谱缓存等）
+.obsidian/cache/
+.obsidian/graph.json
+.obsidian/workspace-mobile.json
+
+# 忽略临时文件（某些平台可能生成）
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 忽略 Obsidian 自带回收站（如有启用）
+.trash/
+.obsidian/trash/
+
+# 忽略自动生成的备份（如使用 Obsidian Git 插件）
+*.bak
+*.swp
+*.tmp
+
+# 可选：忽略 PDF、图像等大文件（如不希望纳入版本控制）
+# *.pdf
+# *.png
+# *.jpg
+# *.zip
